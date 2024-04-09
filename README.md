@@ -22,5 +22,5 @@ Tomato leaf disease detection dataset from
 ### Github
 - **`dataset`** folder: contains `train` and `test` images
 - **`data_preprocessing`** folder: contains file .ipynb for data understanding and feature extraction
-- **`demo_picture`** folder: folder containing illustrations for the report file
 - **`xgboost`** folder: contains training data and algorithm implementation .ipynb files
+- **`report`** folder: folder containing report files including proposal, progress reports and final report
