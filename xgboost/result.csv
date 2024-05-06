@@ -1,4 +1,4 @@
 Labels,n_estimators,learning_rate,Sequential_training_time,Sequential_accuracy
-binary_labels,3,0.3,801.5638644695282,0.9466666666666667
-three_labels,3,0.3,1990.2370750904083,0.9566666666666667
-ten_labels,20,0.3,,
+binary_labels,3,0.3,357.048046,0.946666667
+three_labels,3,0.3,1062.156121,0.956666667
+ten_labels,35,0.3,,
