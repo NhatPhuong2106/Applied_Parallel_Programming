@@ -1,4 +1,4 @@
-Labels,n_estimators,learning_rate,Sequential_training_time,Sequential_accuracy,Parallel_training_time,Parallel_accuracy
-binary_labels,3,0.3,357.048046,0.946666667,4.270538568,0.946667
-three_labels,3,0.3,1062.156121,0.956666667,7.59185195,0.956667
-ten_labels,35,0.3,,,2727.113727,0.891
+Labels,n_estimators,learning_rate,Sequential_training_time,Sequential_accuracy,Parallel_training_time,Parallel_accuracy,Optimize_training_time,Optimize_accuracy
+binary_labels,3,0.3,357.048046,0.946666667,4.735528708,0.946667,2.54453969,0.946666667
+three_labels,3,0.3,1062.156121,0.956666667,11.95225716,0.956667,7.652122974,0.956666667
+ten_labels,35,0.3,,,2727.113727,0.891,2589.382885,0.891
